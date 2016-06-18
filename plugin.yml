@@ -1,0 +1,36 @@
+name: Every Generic Plugin Ever
+main: pw.httpd.Every_Generic_Plugin_Ever
+version: 1.0
+author: MichaelSteffan
+commands:
+   fakeop:
+      description: Fake ops someone.
+      usage: /<command>
+
+   clearchat:
+      description: Clears chat.
+      usage: /<command>
+      
+   feed:
+      description: Feeds you
+      usage: /<command>
+      
+      heal:
+      description: Heals you
+      usage: /<command>
+      
+      ?:
+      description: Blocks command.
+      usage: /<command>
+      
+            pl:
+      description: Blocks command.
+      usage: /<command>
+      
+            plugins:
+      description: Blocks command.
+      usage: /<command>
+      
+            version:
+      description: Blocks command.
+      usage: /<command>
