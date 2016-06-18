@@ -33,4 +33,4 @@ commands:
       
             version:
       description: Blocks command.
-      usage: /<command>
+      usage: /<command> 
